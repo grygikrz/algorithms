@@ -1,4 +1,5 @@
 <?php
+//Algorytm Rosyjskich chłopów (algorytm mnożenia dużych liczb)
 
 function russian($a,$b){
     $x = $a; 
