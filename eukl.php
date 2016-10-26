@@ -1,4 +1,5 @@
 <?php
+
 //Algorytm Euklidesa
 
 function nwd($a, $b){
